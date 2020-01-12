@@ -14,3 +14,10 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # Screen
 PRODUCT_PROPERTY_OVERRIDES += \
 	ro.sf.lcd_density=220
+
+# LTE Properties
+PRODUCT_PROPERTY_OVERRIDES += \
+	persist.radio.lte_vrte_ltd=1 \
+	telephony.lteOnCdmaDevice=0 \
+	telephony.lteOnGsmDevice=1 \
+	ro.telephony.default_network=10
