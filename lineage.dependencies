@@ -1,7 +1,7 @@
 [
   {
     "remote": "github",
-    "repository": "DarkDroidDev/android_device_samsung_gprimelte-common",
+    "repository": "Gabboxl/android_device_samsung_gprimelte-common",
     "target_path": "device/samsung/gprimelte-common",
     "revision": "ten"
   }
